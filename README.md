@@ -46,13 +46,13 @@
 <br>
 
 ## 📈 GitHub Stats
-<div style="display: flex; justify-content: center;">
-  <div style="flex: 1; margin-right: 10px;">
+<div style="display: inline-block;">
+  <div style="float: left; margin-right: 10px;">
     <a href="https://github.com/miguelfeles">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelfeles&theme=nightowl&bg_color=1d1f21&langs_count=3&hide=java,html,tex,jupyter%20notebook,css" alt="Top Languages">
     </a>
   </div>
-  <div style="flex: 1; margin-left: 10px;">
+  <div style="float: left;">
     <a href="https://git.io/streak-stats">
       <img src="http://github-readme-streak-stats.herokuapp.com?user=miguelfeles&theme=nightowl" alt="GitHub Streak">
     </a>
