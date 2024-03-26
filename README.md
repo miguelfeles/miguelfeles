@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=miguelfeles&theme=nightowl)](https://git.io/streak-stats)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=miguelfeles.miguelfeles)
+[![miguelfeles's github activity graph](https://activity-graph.herokuapp.com/graph?username=miguelfeles&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-miguelfeles-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/miguelfeles/)
 
