@@ -1,4 +1,4 @@
-<h1 align="center">Hello 😃👋, I'm Miguel Santiago Feles Gómez</h1>
+<h1 align="center">Hello 😃, I'm Miguel Feles</h1>
 
 <p align="justify">
   <em>Welcome to my Data Science GitHub repository!</em><br>
