@@ -1,12 +1,9 @@
 ### Hello 😃👋
 
-IWelcome to my Data Science GitHub repository! I'm Miguel Santiago Feles Gómez, a passionate and dedicated data scientist with a deep interest in extracting meaningful insights from data and leveraging machine learning models to solve real-world problems. This repository serves as a comprehensive portfolio showcasing my skills, projects, and contributions to the field of data science.
+⁤Welcome to my Data Science GitHub repository! ⁤⁤I'm Miguel Santiago Feles Gómez, a passionate data scientist deeply interested in extracting meaningful insights from data and applying machine learning models to solve real-world challenges. ⁤⁤This repository serves as a comprehensive showcase of my skills, projects, and contributions to the data science community. ⁤
 
-My projects leverage the power of Dash and Plotly for creating interactive, web-based data visualizations that allow users to explore and understand complex datasets intuitively. Dash enables me to build highly interactive applications that are both user-friendly and powerful, making the insights derived from data accessible to a broad audience. Plotly, with its versatile plotting capabilities, is my go-to for crafting visually appealing, interactive charts and graphs that enhance the storytelling aspect of data analysis.
-
-I have a particular interest in graph models, which are crucial for understanding and visualizing the relationships and networks inherent in many types of data. Whether analyzing social networks, biological data, or complex systems, I utilize graph-based models to unearth the underlying patterns and connections that traditional analysis methods might overlook. This approach allows me to tackle complex problems where relationships between entities play a key role, providing insights that are both deep and actionable.
-
- **knowledge**.
+⁤In my work, I use Dash and Plotly extensively to create interactive web-based data visualizations that make complex datasets intuitive and accessible to everyone. ⁤⁤Dash helps me create highly interactive applications that are not only easy to use, but also powerful, while Plotly is my tool of choice for designing visually engaging and interactive charts and graphs that enhance data storytelling. ⁤⁤I am particularly interested in graph models, which are essential for analyzing relationships and networks in various types of data. ⁤⁤Whether it's social networks, biological data, or complex systems, I leverage graph-based models to uncover underlying patterns and connections that might go unnoticed with conventional analysis methods. ⁤⁤This approach allows me to tackle complex problems where relationships between entities are crucial, providing insightful and actionable information. ⁤
+**knowledge**.
 
 <!--
 **miguelfeles/miguelfeles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
