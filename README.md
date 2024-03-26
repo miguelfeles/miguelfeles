@@ -1,74 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Actividad 4</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-        }
-        header {
-            background-color: green;
-            color: #fff;
-            text-align: center;
-            padding: 20px 0;
-        }
-        main {
-            max-width: 800px;
-            margin: 20px auto;
-            padding: 20px;
-            background-color: #fff;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        h1 {
-            margin: 0;
-        }
-        h2 {
-            margin: 0;
-            text-align: center;
-        }
-        h3 {
-            margin: 0;
-            text-align: center;
-        }
-        section {
-            margin-bottom: 20px;
-        }
-        footer {
-            text-align: center;
-            padding: 10px 0;
-            background-color: #007bff;
-            color: #fff;
-            position: fixed;
-            bottom: 0;
-            left: 0;
-            width: 100%;
-        }
-    </style>
-</head>
-<body>
-    <header>
-        <h1>Miguel Feles</h1>
-    </header>
-    <main>
-        <section>
-            <h2>Universidad Externado de Colombia</h2>
-            <h3>Ciencia de Datos</h3>
-            <h3>Machine Learning</h3>
-        </section>
-    </main>
-    <footer>
-        <p>&copy; 2024 Universidad Externado de Colombia - Ciencia de Datos</p>
-    </footer>
-</body>
-</html>
+User
+### Hello 😃👋
 
+⁤Welcome to my Data Science GitHub repository! ⁤⁤I'm Miguel Santiago Feles Gómez, a passionate data scientist deeply interested in extracting meaningful insights from data and applying machine learning models to solve real-world challenges. ⁤⁤This repository serves as a comprehensive showcase of my skills, projects, and contributions to the data science community. ⁤
 
+⁤In my work, I use Dash and Plotly extensively to create interactive web-based data visualizations that make complex datasets intuitive and accessible to everyone. ⁤⁤Dash helps me create highly interactive applications that are not only easy to use, but also powerful, while Plotly is my tool of choice for designing visually engaging and interactive charts and graphs that enhance data storytelling. ⁤⁤I am particularly interested in graph models, which are essential for analyzing relationships and networks in various types of data. ⁤⁤Whether it's social networks, biological data, or complex systems, I leverage graph-based models to uncover underlying patterns and connections that might go unnoticed with conventional analysis methods. ⁤⁤This approach allows me to tackle complex problems where relationships between entities are crucial, providing insightful and actionable information. ⁤
+**knowledge**.
 <!--
 **miguelfeles/miguelfeles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
