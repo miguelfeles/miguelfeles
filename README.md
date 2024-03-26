@@ -47,12 +47,17 @@ Here are some ideas to get you started:
 </table>
 <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelfeles&theme=nightowl&bg_color=1d1f21&langs_count=3&hide=java,html,tex,jupyter%20notebook,css)](https://github.com/miguelfeles)
+
+[![miguelfeles's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelfeles&show_icons=true&theme=nightowl&bg_color=
+
 <h1 align="left" style="font-size:3.5vw">📈 GitHub Stats</h1>
 
 <a href="https://github.com/miguelfeles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelfeles&hide=java,html,tex,jupyter%20notebook,css&theme=dracula&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelfeles&theme=nightowl&bg_color=1d1f21&langs_count=3&hide=java,html,tex,jupyter%20notebook,css" />
 </a>
 
 <a href="https://github.com/miguelfeles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelfeles&show_icons=true&line_height=27&theme=dracula&bg_color=1d1f21&count_private=true&alt=Joarons%20GitHub%20Stats"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=miguelfeles&show_icons=true&theme=nightowl&bg_color=1d1f21&count_private=true"  />
 </a>
+
