@@ -1,6 +1,6 @@
 <h1 align="center">Hello 😃👋, I'm Miguel Santiago Feles Gómez</h1>
 
-<p align="center">
+<p align="justify">
   <em>Welcome to my Data Science GitHub repository!</em><br>
   I'm a passionate data scientist deeply interested in extracting meaningful insights from data and applying machine learning models to solve real-world challenges. This repository serves as a comprehensive showcase of my skills, projects, and contributions to the data science community.<br><br>
   In my work, I use <strong>Dash</strong> and <strong>Plotly</strong> extensively to create interactive web-based data visualizations. I'm particularly interested in graph models, essential for analyzing relationships and networks in various types of data, providing insightful and actionable information.
