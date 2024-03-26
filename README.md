@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 
 
 -->
+<h1 align="left" style="background-color: green; font-size:3.5vw;">⚙️ Skills</h1>
 
 <h1 align="left" style="font-size:3.5vw">⚙️ Skills</h1>
 
