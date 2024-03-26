@@ -12,6 +12,11 @@ Here are some ideas to get you started:
 
 
 -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=miguelfeles&theme=nightowl)](https://git.io/streak-stats)
+[![miguelfeles's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=miguelfeles&theme=nightowl)](https://wakatime.com/@miguelfeles)
+[![trophy](https://github-profile-trophy.vercel.app/?username=miguelfeles&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=miguelfeles.miguelfeles)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-miguelfeles-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/miguelfeles/)
 
 <h1 align="left" style="font-size:3.5vw">⚙️ Skills</h1>
 
