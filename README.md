@@ -54,6 +54,3 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=miguelfeles&theme=nightowl" alt="GitHub Streak">
   </a>
 </p>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=miguelfeles&theme=nightowl)](https://git.io/streak-stats)
-
