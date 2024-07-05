@@ -1,5 +1,4 @@
 <h1 align="center">Hello 😃, I'm Miguel Feles</h1>
-
 <p align="justify">
   <em>Welcome to my Data Science GitHub repository!</em><br>
   I'm a passionate data scientist deeply interested in extracting meaningful insights from data and applying machine learning models to solve real-world challenges. This repository serves as a comprehensive showcase of my skills, projects, and contributions to the data science community.<br><br>
