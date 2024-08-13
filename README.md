@@ -4,7 +4,6 @@
   I'm a passionate data scientist deeply interested in extracting meaningful insights from data and applying machine learning models to solve real-world challenges. This repository serves as a comprehensive showcase of my skills, projects, and contributions to the data science community.<br><br>
   In my work, I use <strong>Dash</strong> and <strong>Plotly</strong> extensively to create interactive web-based data visualizations. I'm particularly interested in graph models, essential for analyzing relationships and networks in various types of data, providing insightful and actionable information.
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/miguelfeles/">
     <img src="https://img.shields.io/badge/LinkedIn-miguelfeles-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
