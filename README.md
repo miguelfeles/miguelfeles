@@ -12,13 +12,12 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=miguelfeles.miguelfeles" alt="Visitors">
   </a>
 </p>
-
 ## ⚙️ Skills
 <table style="border-collapse: collapse; width: 100%; margin: 0;">
   <tr>
     <th style="padding: 8px; text-align: left; border-bottom: 1px solid #ddd; font-weight: bold;">Languages</th>
     <th style="padding: 8px; text-align: left; border-bottom: 1px solid #ddd; font-weight: bold;">Frameworks</th>
-    <th style="padding: 8px; text-align: left; border-bottom: 1px solid #ddd; font-weight: bold;">Tools</th>
+    <th style="padding: 8px; text-align: left; border-bottom: 1px solid #ddd; font-weight: bold;">-Tools</th>
   </tr>
   <tr>
     <td style="padding: 8px;">
