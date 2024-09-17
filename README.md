@@ -13,8 +13,6 @@
   </a>
 </p>
 
-
-
 ## ⚙️ Skills
 <table style="border-collapse: collapse; width: 100%; margin: 0;">
   <tr>
