@@ -47,4 +47,3 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=miguelfeles&theme=nightowl" alt="GitHub Streak">
   </a>
 </p>
-
