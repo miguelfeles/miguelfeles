@@ -12,6 +12,7 @@
   <a href="https://github.com/miguelfeles">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=miguelfeles.miguelfeles" alt="Visitors">
   </a>
+</p>
 ## ⚙️ Skills
 <table style="border-collapse: collapse; width: 100%; margin: 0;">
   <tr>
