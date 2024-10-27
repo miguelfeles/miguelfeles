@@ -43,9 +43,7 @@ m
   </tr>
 </table>
 <br>
-
 ## 📈 GitHub Stats 
-
 <p align="center">
   <a href="https://github.com/miguelfeles" style = "height:40px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelfeles&theme=nightowl&bg_color=1d1f21&langs_count=3&hide=java,html,tex,jupyter%20notebook,css" alt="Top Languages">
