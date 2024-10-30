@@ -16,7 +16,7 @@
   </a>
 </p>
 
-## ⚙️ Skills
+## ⚙️ Skills 💽
 
 <table style="border-collapse: collapse; width: 100%; margin: 0;">
   <tr>
