@@ -5,8 +5,6 @@
   In my work, I use <strong>Dash</strong> and <strong>Plotly</strong> extensively to create interactive web-based data visualizations. I'm particularly interested in graph models, essential for analyzing relationships and networks in various types of data, providing insightful and actionable information.
 </p>
 
-
-
 <p align="center">
   <a href="https://www.linkedin.com/in/miguelfeles/">
     <img src="https://img.shields.io/badge/LinkedIn-miguelfeles-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
@@ -16,7 +14,7 @@
   </a>
 </p>
 
-## ⚙️ Skills 💽
+## 💽 Skills ⚙️
 
 <table style="border-collapse: collapse; width: 100%; margin: 0;">
   <tr>
