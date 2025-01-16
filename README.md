@@ -13,9 +13,7 @@
 <p align="justify">
   I specialize in creating interactive, web-based data visualizations and dashboards using <strong>Dash</strong> and <strong>Plotly</strong>. My expertise also extends to graph models, which are invaluable for analyzing complex relationships and networks across various domains, delivering actionable insights. Additionally, I am actively exploring the possibilities of Large Language Models (LLMs) to push the boundaries of data analysis and natural language processing. 💡
 </p>
-
 ---
-
 <p align="center">
   <a href="https://www.linkedin.com/in/miguelfeles/">
     <img src="https://img.shields.io/badge/LinkedIn-Miguel%20Feles-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
