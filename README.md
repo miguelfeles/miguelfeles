@@ -1,11 +1,12 @@
 <h1 align="center">Hello 😃, I'm Miguel Feles🇨🇴</h1>
 <p align="justify">
   <em>Welcome to my Data Science GitHub repository!</em><br><br>
-I'm a passionate data scientist committed to uncovering meaningful insights from data and leveraging machine learning models to address real-world challenges. This repository is a comprehensive showcase of my skills, projects, and contributions to the data science community. 🚀
+<p>
+  I am a passionate data scientist dedicated to uncovering meaningful insights from data and applying machine learning models to solve real-world challenges. My work focuses on leveraging tools like <strong>Dash</strong> and <strong>Plotly</strong> to create interactive, web-based data visualizations and dashboards that effectively communicate complex insights. Additionally, I have a strong interest in <strong>graph models</strong>, which play a crucial role in analyzing relationships and networks within various datasets, providing actionable and valuable information. 📊
+</p>
 
-My work heavily involves Dash and Plotly, which I use to develop interactive, web-based data visualizations and dashboards. These tools enable me to bring data to life and communicate complex insights effectively. Additionally, I have a deep interest in graph models, which are invaluable for analyzing relationships and networks within diverse datasets, uncovering actionable patterns and insights. 📊
-
-Currently, I am exploring opportunities to work with Large Language Models (LLMs), as I am fascinated by their transformative potential and excited to integrate them into innovative solutions. Whether it’s advancing NLP applications, building robust AI systems, or fostering collaboration within the data science community, I’m driven to make a meaningful impact. 💡
+<p>
+  Currently, I am exploring opportunities to work with <strong>Large Language Models (LLMs)</strong>, as I am deeply fascinated by their transformative potential in the field of artificial intelligence. I am excited about integrating LLMs into innovative solutions, advancing NLP applications, and contributing to the data science community through collaboration and impactful projects. My ultimate goal is to combine advanced models and a solid understanding of algorithms to drive meaningful change. 💡
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/miguelfeles/">
