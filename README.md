@@ -1,9 +1,11 @@
 <h1 align="center">Hello 😃, I'm Miguel Feles🇨🇴</h1>
 <p align="justify">
   <em>Welcome to my Data Science GitHub repository!</em><br><br>
-  I'm a passionate data scientist deeply interested in extracting meaningful insights from data and applying machine learning models to solve real-world challenges. This repository serves as a comprehensive showcase of my skills, projects, and contributions to the data science community.<br><br>
-  In my work, I use <strong>Dash</strong> and <strong>Plotly</strong> extensively to create interactive web-based data visualizations and dashboards. I'm particularly interested in graph models, essential for analyzing relationships and networks in various types of data, providing insightful and actionable information.📊
-  I look for explore programs vith Large Languaje Models
+I'm a passionate data scientist committed to uncovering meaningful insights from data and leveraging machine learning models to address real-world challenges. This repository is a comprehensive showcase of my skills, projects, and contributions to the data science community. 🚀
+
+My work heavily involves Dash and Plotly, which I use to develop interactive, web-based data visualizations and dashboards. These tools enable me to bring data to life and communicate complex insights effectively. Additionally, I have a deep interest in graph models, which are invaluable for analyzing relationships and networks within diverse datasets, uncovering actionable patterns and insights. 📊
+
+Currently, I am exploring opportunities to work with Large Language Models (LLMs), as I am fascinated by their transformative potential and excited to integrate them into innovative solutions. Whether it’s advancing NLP applications, building robust AI systems, or fostering collaboration within the data science community, I’m driven to make a meaningful impact. 💡
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/miguelfeles/">
