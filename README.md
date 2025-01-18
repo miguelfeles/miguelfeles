@@ -1,181 +1,188 @@
-<body style="font-family: Arial, sans-serif; margin: 15px; line-height: 1.6; background-color: #f9f9f9;">
+<body style="font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f0f0f0;">
 
-  <!-- Título principal -->
-  <h1 align="center" style="text-align:center;">
-    ¡Hola 😃, soy Miguel Feles <img src="https://flagcdn.com/16x12/co.png" width="16" height="12" alt="CO"/>!
+<!-- Container with a centered layout and slight shadow -->
+<div style="max-width: 900px; margin: 30px auto; background-color: #ffffff; padding: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
+
+  <!-- Title Section -->
+  <h1 style="text-align: center; margin-top: 0;">
+    Hello <span style="font-size:1.2em;">😃</span>, I'm <strong>Miguel Feles</strong> 
+    <img src="https://flagcdn.com/16x12/co.png" width="16" height="12" alt="CO" style="vertical-align:middle;">
   </h1>
 
-  <!-- Descripción inicial -->
-  <p>
-    <em>¡Bienvenido(a) a mi repositorio de Data Science en GitHub!</em>
-  </p>
-  <p>
-    Soy un apasionado científico de datos, dedicado a descubrir información valiosa a partir de datos y aplicar modelos de aprendizaje automático para resolver desafíos del mundo real.
-    Mi trabajo se centra en el uso de herramientas como <strong>Dash</strong> y <strong>Plotly</strong> para crear visualizaciones interactivas y tableros web que comuniquen efectivamente
-    insights complejos. Además, tengo un gran interés en <strong>modelos de grafos</strong>, fundamentales para analizar relaciones y redes en diversos conjuntos de datos, brindando
-    información procesable y valiosa. <strong>📊</strong>
-  </p>
-  <p>
-    Actualmente, estoy explorando oportunidades para trabajar con <strong>Large Language Models (LLMs)</strong>, pues me fascina su potencial transformador en el campo de la inteligencia
-    artificial. Estoy entusiasmado con integrar LLMs en soluciones innovadoras, impulsar aplicaciones de Procesamiento de Lenguaje Natural y contribuir a la comunidad de ciencia de datos a
-    través de la colaboración y proyectos de alto impacto. Mi objetivo final es combinar modelos avanzados y un sólido entendimiento de algoritmos para generar cambios significativos. <strong>💡</strong>
-  </p>
-  <p>
-    <strong>Objetivo Principal:</strong> Crear y fortalecer una comunidad en torno a la inteligencia artificial, promoviendo el intercambio de conocimientos, la organización de eventos y 
-    la mentoría para personas interesadas en IA, Data Science y campos afines.
+  <!-- Introduction -->
+  <p style="text-align: center; margin: 0; font-style: italic;">
+    Welcome to my Data Science GitHub repository!
   </p>
 
-  <!-- Separador -->
-  <hr style="margin: 2rem 0;">
+  <p style="margin-top: 1.2em; line-height: 1.6;">
+    I am a passionate data scientist dedicated to uncovering meaningful insights from data and applying machine learning
+    models to solve real-world challenges. My work focuses on leveraging tools like
+    <strong>Dash</strong> and <strong>Plotly</strong> to create interactive, web-based data
+    visualizations and dashboards that effectively communicate complex insights. I am also highly
+    interested in <strong>graph models</strong>, which play a crucial role in analyzing relationships and networks 
+    within various datasets to provide actionable, valuable information. <span style="font-size:1.2em;">📊</span>
+  </p>
 
-  <!-- Enlaces de contacto y badge de visitas -->
-  <p align="center" style="text-align:center;">
-    <a href="https://www.linkedin.com/in/miguelfeles/">
+  <p style="margin-top: 1.2em; line-height: 1.6;">
+    Currently, I am exploring opportunities to work with <strong>Large Language Models (LLMs)</strong>, 
+    as I am fascinated by their transformative potential in the field of Artificial Intelligence. 
+    I am excited about integrating LLMs into innovative solutions, advancing NLP applications, 
+    and contributing to the data science community through collaboration and impactful projects. 
+    My ultimate goal is to combine advanced models and a solid understanding of algorithms 
+    to drive meaningful change. <span style="font-size:1.2em;">💡</span>
+  </p>
+
+  <p style="margin-top: 1.2em; line-height: 1.6;">
+    <strong>Main Objective:</strong> to build and strengthen a community around Artificial Intelligence, 
+    promoting knowledge exchange, event organization, and mentorship for those interested in AI, 
+    Data Science, and related fields.
+  </p>
+
+  <!-- Links & Badges -->
+  <div style="text-align:center; margin-top: 30px;">
+    <a href="https://www.linkedin.com/in/miguelfeles/" style="margin-right: 10px;">
       <img src="https://img.shields.io/badge/LinkedIn-miguelfeles-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="https://github.com/miguelfeles">
-      <img src="https://visitor-badge.laobi.icu/badge?page_id=miguelfeles.miguelfeles" alt="Visitors">
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=miguelfeles.miguelfeles" alt="GitHub Visitors">
     </a>
-  </p>
+  </div>
 
-  <hr style="margin: 2rem 0;">
+  <hr style="margin: 2em 0; border: 0; border-bottom: 1px solid #ccc;">
 
-  <!-- Sección de habilidades -->
-  <h2 style="text-align:left; margin-top:40px; margin-bottom:10px; font-size:1.5em;">
+  <!-- Skills Section -->
+  <h2 style="margin-top: 0; margin-bottom: 0.5em; font-size: 1.8em; color: #333; border-bottom: 2px solid #ddd; padding-bottom: 0.2em;">
     Main Skills ⚙️
   </h2>
 
-  <table style="border-collapse:collapse; width:100%; margin-top:20px;">
-    <tr>
-      <th style="padding:8px; text-align:left; border-bottom:1px solid #ddd; font-weight:bold;">
-        Languages
-      </th>
-      <th style="padding:8px; text-align:left; border-bottom:1px solid #ddd; font-weight:bold;">
-        Frameworks
-      </th>
-      <th style="padding:8px; text-align:left; border-bottom:1px solid #ddd; font-weight:bold;">
-        Tools
-      </th>
+  <table style="width: 100%; border-collapse: collapse; margin-top: 1em; box-shadow: 0 0 5px rgba(0,0,0,0.1);">
+    <tr style="background-color: #f8f8f8;">
+      <th style="padding: 10px; border-bottom: 2px solid #ddd; text-align: left;">Programming Languages</th>
+      <th style="padding: 10px; border-bottom: 2px solid #ddd; text-align: left;">Frameworks</th>
+      <th style="padding: 10px; border-bottom: 2px solid #ddd; text-align: left;">Tools</th>
+      <th style="padding: 10px; border-bottom: 2px solid #ddd; text-align: left;">Focus Areas</th>
     </tr>
     <tr>
-      <td style="padding:8px; text-align:left; border-bottom:1px solid #ddd; vertical-align:top;">
+      <td style="padding: 10px; border-bottom: 1px solid #ddd; vertical-align: top;">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" 
-             alt="Language: Python" 
-             style="display:block; margin:4px 0;">
-        <img src="https://img.shields.io/badge/Cpp-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" 
-             alt="Language: C++" 
-             style="display:block; margin:4px 0;">
+             alt="Python" style="display:block; margin-bottom: 6px;">
+        <img src="https://img.shields.io/badge/C++-ED8B00?style=for-the-badge&logo=c%2B%2B&logoColor=white" 
+             alt="C++" style="display:block; margin-bottom: 6px;">
         <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" 
-             alt="Language: SQL" 
-             style="display:block; margin:4px 0;">
+             alt="SQL" style="display:block; margin-bottom: 6px;">
       </td>
-      <td style="padding:8px; text-align:left; border-bottom:1px solid #ddd; vertical-align:top;">
+      <td style="padding: 10px; border-bottom: 1px solid #ddd; vertical-align: top;">
         <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" 
-             alt="Framework: Flask" 
-             style="display:block; margin:4px 0;">
+             alt="Flask" style="display:block; margin-bottom: 6px;">
         <img src="https://img.shields.io/badge/Django-57F287?style=for-the-badge&logo=django&logoColor=white" 
-             alt="Framework: Django" 
-             style="display:block; margin:4px 0;">
+             alt="Django" style="display:block; margin-bottom: 6px;">
       </td>
-      <td style="padding:8px; text-align:left; border-bottom:1px solid #ddd; vertical-align:top;">
+      <td style="padding: 10px; border-bottom: 1px solid #ddd; vertical-align: top;">
         <img src="https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=Jupyter&color=FF924E" 
-             alt="Tool: Jupyter" 
-             style="display:block; margin:4px 0;">
+             alt="Jupyter" style="display:block; margin-bottom: 6px;">
         <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" 
-             alt="Tool: Git" 
-             style="display:block; margin:4px 0;">
-        <img src="https://img.shields.io/badge/Vs_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" 
-             alt="Tool: Vs Code" 
-             style="display:block; margin:4px 0;">
+             alt="Git" style="display:block; margin-bottom: 6px;">
+        <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" 
+             alt="VS Code" style="display:block; margin-bottom: 6px;">
+      </td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd; vertical-align: top;">
+        <strong>Machine Learning:</strong> scikit-learn, statsmodels<br>
+        <strong>Deep Learning:</strong> PyTorch, Keras, TensorFlow<br>
+        <strong>LLMs:</strong> LangChain, LlamaIndex<br>
+        <strong>Bayesian Statistics:</strong> PyMC
       </td>
     </tr>
   </table>
 
-  <!-- Separador -->
-  <hr style="margin: 2rem 0;">
+  <hr style="margin: 2em 0; border: 0; border-bottom: 1px solid #ccc;">
 
-  <!-- Experiencia Profesional -->
-  <h2 style="text-align:left; margin-top:40px; margin-bottom:10px; font-size:1.5em;">
-    Experiencia Profesional
+  <!-- Professional Experience -->
+  <h2 style="margin-top: 0; margin-bottom: 0.5em; font-size: 1.8em; color: #333; border-bottom: 2px solid #ddd; padding-bottom: 0.2em;">
+    Professional Experience
   </h2>
-  <p>
-    <!-- Aquí puedes detallar tu experiencia profesional -->
-    <strong>Data Scientist</strong> en <em>[Nombre de la Empresa]</em> (Fecha inicio – Fecha fin)<br>
-    - Descripción de tus funciones, enfoques y logros.<br>
-    - Tecnologías clave: Python, Machine Learning, etc.
+  <p style="line-height: 1.6;">
+    <strong>Data Scientist</strong> at <em>[Company Name]</em> (Start Date – End Date)<br>
+    &bull; Describe your responsibilities, approaches, and achievements.<br>
+    &bull; Key technologies: Python, Machine Learning, etc.
   </p>
 
-  <!-- Títulos Académicos -->
-  <hr style="margin: 2rem 0;">
-  <h2 style="text-align:left; margin-top:40px; margin-bottom:10px; font-size:1.5em;">
-    Títulos Académicos
+  <hr style="margin: 2em 0; border: 0; border-bottom: 1px solid #ccc;">
+
+  <!-- Academic Titles -->
+  <h2 style="margin-top: 0; margin-bottom: 0.5em; font-size: 1.8em; color: #333; border-bottom: 2px solid #ddd; padding-bottom: 0.2em;">
+    Academic Titles
   </h2>
-  <p>
-    <!-- Aquí puedes detallar tus estudios formales, licenciaturas, maestrías, etc. -->
-    - <strong>Licenciatura en X</strong>, [Universidad], [Año].<br>
-    - <strong>Maestría en Y</strong>, [Universidad], [Año].
+  <p style="line-height: 1.6;">
+    &bull; <strong>Bachelor's in X</strong>, [University], [Year].<br>
+    &bull; <strong>Master's in Y</strong>, [University], [Year].
   </p>
 
-  <!-- Investigaciones Científicas -->
-  <hr style="margin: 2rem 0;">
-  <h2 style="text-align:left; margin-top:40px; margin-bottom:10px; font-size:1.5em;">
-    Investigaciones Científicas
+  <hr style="margin: 2em 0; border: 0; border-bottom: 1px solid #ccc;">
+
+  <!-- Scientific Research -->
+  <h2 style="margin-top: 0; margin-bottom: 0.5em; font-size: 1.8em; color: #333; border-bottom: 2px solid #ddd; padding-bottom: 0.2em;">
+    Scientific Research
   </h2>
-  <p>
-    <!-- Aquí puedes mencionar tus publicaciones, artículos, ponencias, etc. -->
-    - <strong>Título de la Investigación o Artículo</strong> (Fecha de publicación)<br>
-      Breve resumen y/o enlace a la publicación.
+  <p style="line-height: 1.6;">
+    &bull; <strong>[Title of Research or Article]</strong> (Publication Date)<br>
+      Brief summary and/or link to publication.
   </p>
 
-  <!-- Construyendo comunidad en IA -->
-  <hr style="margin: 2rem 0;">
-  <h2 style="text-align:left; margin-top:40px; margin-bottom:10px; font-size:1.5em;">
-    Construyendo Comunidad en IA
+  <hr style="margin: 2em 0; border: 0; border-bottom: 1px solid #ccc;">
+
+  <!-- AI Community Section -->
+  <h2 style="margin-top: 0; margin-bottom: 0.5em; font-size: 1.8em; color: #333; border-bottom: 2px solid #ddd; padding-bottom: 0.2em;">
+    Building an AI Community
   </h2>
-  <p>
-    Mi objetivo es <strong>crear y fortalecer una comunidad centrada en la inteligencia artificial</strong>. Algunas formas en las que busco lograrlo son:
+  <p style="line-height: 1.6;">
+    My objective is to <strong>build and strengthen a community focused on AI</strong>. I pursue this through:
   </p>
-  <ul>
-    <li><strong>Creación de Contenido:</strong> Publicaciones, tutoriales y videos sobre IA y Data Science.</li>
-    <li><strong>Organización de Eventos:</strong> Talleres, meetups y seminarios virtuales para compartir conocimientos.</li>
-    <li><strong>Mentorías y Colaboraciones:</strong> Apoyo a estudiantes, profesionales y entusiastas a comenzar proyectos en IA, compartir consejos y resolver dudas.</li>
+  <ul style="line-height: 1.6;">
+    <li><strong>Content Creation:</strong> articles, tutorials, and videos on AI and Data Science.</li>
+    <li><strong>Event Organization:</strong> workshops, meetups, and virtual seminars to share knowledge.</li>
+    <li><strong>Mentorship & Collaboration:</strong> guiding students and professionals in starting AI projects, offering advice, and resolving doubts.</li>
   </ul>
-  <p>
-    Si te interesa colaborar en algún proyecto, organizar un evento o simplemente conversar sobre IA y Data Science, ¡no dudes en ponerte en contacto conmigo!
+  <p style="line-height: 1.6;">
+    If you're interested in collaborating on a project, organizing an event, or simply discussing AI and Data Science, feel free to reach out!
   </p>
 
-  <!-- Estadísticas de GitHub -->
-  <hr style="margin: 2rem 0;">
-  <h2 style="text-align:left; margin-top:40px; margin-bottom:10px; font-size:1.5em;">
+  <hr style="margin: 2em 0; border: 0; border-bottom: 1px solid #ccc;">
+
+  <!-- GitHub Stats Section -->
+  <h2 style="margin-top: 0; margin-bottom: 0.5em; font-size: 1.8em; color: #333; border-bottom: 2px solid #ddd; padding-bottom: 0.2em;">
     📈 GitHub Stats
   </h2>
-  <p align="center" style="text-align:center;">
-    <a href="https://github.com/miguelfeles">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelfeles&theme=nightowl&bg_color=1d1f21&langs_count=3&hide=java,html,tex,jupyter%20notebook,css" 
-           alt="Top Languages">
+  <div style="text-align:center;">
+    <a href="https://github.com/miguelfeles" style="margin-right: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelfeles&theme=nightowl&bg_color=1d1f21&langs_count=3&hide=java,html,tex,jupyter%20notebook,css"
+           alt="Top Languages"
+           style="max-width: 45%;">
     </a>
     <a href="https://git.io/streak-stats">
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=miguelfeles&theme=nightowl" 
-           alt="GitHub Streak">
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=miguelfeles&theme=nightowl"
+           alt="GitHub Streak"
+           style="max-width: 45%;">
     </a>
-  </p>
+  </div>
 
-  <hr style="margin: 2rem 0;">
+  <hr style="margin: 2em 0; border: 0; border-bottom: 1px solid #ccc;">
 
-  <!-- Contacto final -->
-  <h3 align="center" style="text-align:center;">
-    ¿Te interesa colaborar o tienes preguntas?
+  <!-- Contact Section -->
+  <h3 style="text-align:center; margin-bottom: 0.5em; font-size: 1.4em; color: #333;">
+    Interested in collaborating or have any questions?
   </h3>
-  <p align="center" style="text-align:center;">
+  <p style="text-align:center; line-height: 1.6;">
     <strong>LinkedIn:</strong> 
-    <a href="https://www.linkedin.com/in/miguelfeles/" target="_blank">miguelfeles</a><br>
+    <a href="https://www.linkedin.com/in/miguelfeles/" target="_blank" style="color: #0077B5;">miguelfeles</a><br>
     <strong>GitHub:</strong> 
-    <a href="https://github.com/miguelfeles" target="_blank">miguelfeles</a>
+    <a href="https://github.com/miguelfeles" target="_blank" style="color: #333;">miguelfeles</a>
+  </p>
+  <p style="text-align:center; margin-top: 1.2em; line-height: 1.6;">
+    Thank you for visiting my repository! I hope you find helpful information and feel inspired 
+    to become part of the AI and Data Science community. Together, we can drive innovative solutions 
+    and high-impact projects.
   </p>
 
-  <p align="center" style="text-align:center;">
-    ¡Gracias por visitar mi repositorio! Espero que encuentres información útil y te animes a formar parte de esta comunidad de IA y Data Science.
-    Juntos podemos impulsar soluciones innovadoras y proyectos de gran impacto.
-  </p>
+</div> <!-- End of container -->
 
 </body>
