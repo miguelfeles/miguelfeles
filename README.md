@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <title>README en HTML - Miguel Feles</title>
+
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -41,8 +37,6 @@
       margin: 4px 0;
     }
   </style>
-</head>
-<body>
 
 <h1 align="center">¡Hola 😃, soy Miguel Feles <img src="https://flagcdn.com/16x12/co.png" width="16" height="12" alt="CO"/>!</h1>
 
@@ -176,5 +170,3 @@
   Juntos podemos impulsar soluciones innovadoras y proyectos de gran impacto.
 </p>
 
-</body>
-</html>
