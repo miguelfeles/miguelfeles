@@ -137,7 +137,7 @@
   <p style="line-height: 1.6;">
     &bull; <strong>Comprehensive analysis of clinical images contributions for melanoma classification using convolutional neural networks</strong> (May 14, 2024)<br>
     This study compares the classification performance for melanoma using CNN models trained on clinical and dermoscopy images.<br>
-    <a href="[https://onlinelibrary.wiley.com/doi/full/10.1111/srt.13607]">View publication</a>
+    <button href="[https://onlinelibrary.wiley.com/doi/full/10.1111/srt.13607]">View publication</button>
   </p>
 
   <hr style="margin: 2em 0; border: 0; border-bottom: 1px solid #ccc;">
