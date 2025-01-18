@@ -131,13 +131,13 @@
   <p style="line-height: 1.6;">
     &bull; <strong>Optimisation of police resources in commercial areas of Bogotá: geospatial and strategic analysis of vulnerabilities</strong> (Nov 11, 2024)<br>
     This research integrates Machine Learning and graph theory to optimize police resource allocation in Bogotá's commercial areas.<br>
-    <a href="[https://revistalogos.policia.edu.co:8443/index.php/rlct/article/view/1988]">View publication</a>
+    <a href="https://revistalogos.policia.edu.co:8443/index.php/rlct/article/view/1988" target="_blank" style="color: #0077B5;>View publication</a>
   </p>
   
   <p style="line-height: 1.6;">
     &bull; <strong>Comprehensive analysis of clinical images contributions for melanoma classification using convolutional neural networks</strong> (May 14, 2024)<br>
     This study compares the classification performance for melanoma using CNN models trained on clinical and dermoscopy images.<br>
-    <button href="[https://onlinelibrary.wiley.com/doi/full/10.1111/srt.13607]">View publication</button>
+    <button href="https://onlinelibrary.wiley.com/doi/full/10.1111/srt.13607" target="_blank" style="color: #0077B5;>View publication</button>
   </p>
 
   <hr style="margin: 2em 0; border: 0; border-bottom: 1px solid #ccc;">
