@@ -170,11 +170,10 @@
            alt="Top Languages"
            style="max-width: 45%;">
     </a>
-    <a href="https://git.io/streak-stats">
+      [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
       <img src="http://github-readme-streak-stats.herokuapp.com?user=miguelfeles&theme=nightowl"
            alt="GitHub Streak"
            style="max-width: 45%;">
-    </a>
   </div>
 
   <hr style="margin: 2em 0; border: 0; border-bottom: 1px solid #ccc;">
