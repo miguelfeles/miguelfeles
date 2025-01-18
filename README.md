@@ -90,10 +90,23 @@
   <h2 style="margin-top: 0; margin-bottom: 0.5em; font-size: 1.8em; color: #333; border-bottom: 2px solid #ddd; padding-bottom: 0.2em;">
     Professional Experience
   </h2>
+  
   <p style="line-height: 1.6;">
-    <strong>Data Scientist</strong> at <em>[Company Name]</em> (Start Date – End Date)<br>
-    &bull; Describe your responsibilities, approaches, and achievements.<br>
-    &bull; Key technologies: Python, Machine Learning, etc.
+    <strong>Data Scientist</strong> at <em>Catch Consulting</em> (Jun 2023 – Dec 2024)<br>
+    &bull; Developed solutions with LLMs and AI to optimize decision-making.<br>
+    &bull; Key technologies: Python, LLMs, AI.
+  </p>
+  
+  <p style="line-height: 1.6;">
+    <strong>Programming Monitor</strong> at <em>Universidad Externado de Colombia</em> (Apr 2023 – Dec 2023)<br>
+    &bull; Mentored students in programming logic and Python optimization.<br>
+    &bull; Key technologies: Python, Algorithm Design.
+  </p>
+  
+  <p style="line-height: 1.6;">
+    <strong>Information Collector</strong> at <em>Centro Nacional de Consultoría</em> (Dec 2022 – Jan 2023)<br>
+    &bull; Gathered and validated data for national surveys.<br>
+    &bull; Key skills: Data Collection.
   </p>
 
   <hr style="margin: 2em 0; border: 0; border-bottom: 1px solid #ccc;">
