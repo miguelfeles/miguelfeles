@@ -8,7 +8,6 @@
     Hello <span style="font-size:1.2em;">😃</span>, I'm <strong>Miguel Feles</strong> 
     <img src="https://flagcdn.com/16x12/co.png" width="16" height="12" alt="CO" style="vertical-align:middle;">
   </h1>
-
   <!-- Introduction -->
   <p style="text-align: center; margin: 0; font-style: italic;">
     Welcome to my Data Science GitHub repository!
