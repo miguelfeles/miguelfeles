@@ -1,5 +1,4 @@
 <body style="font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f0f0f0;">
-
 <!-- Container with a centered layout and slight shadow -->
 <div style="max-width: 900px; margin: 30px auto; background-color: #ffffff; padding: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
 
