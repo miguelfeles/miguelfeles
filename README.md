@@ -12,7 +12,7 @@
     Welcome to my Data Science GitHub repository!
   </p>
 
-m
+u
 
   <p style="margin-top: 1.2em; line-height: 1.6;">
       I am a passionate data scientist focused on uncovering valuable insights and  applying machine learning models to address real-world challenges. I leverage tools like <strong>Dash</strong> and <strong>Plotly</strong> to create interactive, web-based visualizations and dashboards that effectively communicate complex information. I am also deeply interested in <strong>graph models</strong>, which are key to analyzing relationships and networks within diverse datasets. <span style="font-size:1.2em;">📊</span>
